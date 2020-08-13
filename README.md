@@ -1,6 +1,11 @@
 # HyperSkillProjects
 My hyperskill projects.
 
+## lessons
+It contains not only language lessons.
+Some common programming skills are included
+
+
 ## Kotlin
 I finished some essential parts of Kotlin projects.
 I tried to code kotlin style code, using library functions and ohter grammatical features.
@@ -23,5 +28,5 @@ Kotlin is made from Java.
 So it is good for Kotlin programmers to learn Java to understand more about kotlin.  
 Even more,hyperskill java projects contains some important features like regex that kotlin projects don't.  
 So here is java projects.  
-But as I mentioned, Kotlin is first, so java projects might not contain java file but kotlin one.
+But as I mentioned, Kotlin is first, so java projects might contain kotlin one.
 
