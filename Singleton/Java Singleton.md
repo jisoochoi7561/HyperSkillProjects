@@ -171,7 +171,7 @@ class Singleton { // 싱글톤 클래스
 
 코틀린에서의 싱글톤은 이런 문법적인 요소들이 간단하게 되어 더 간편하고 직관적으로 쓸 수 있다.
 
-[kotlin object](Kotlin Object.md)
+[kotlin object]()
 
 ## 비판
 
