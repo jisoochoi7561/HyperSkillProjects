@@ -225,6 +225,6 @@ object Game {
 
 Game이 companion object를 가진다면 Game.*에서 Game이 Game objcet인지 Game이 가진 companion object인지 구별할 방법이 없기 때문에 허용되지않는다.
 
-요약
+# 요약
 
 Object declaration은 유용하다. 우리는 보통 `object` 와 `companion` 를 싱글톤에 쓴다. 현명하고 올바르게 쓴다면, 코드를 간단하고 쉽게 만들 수 있다.
