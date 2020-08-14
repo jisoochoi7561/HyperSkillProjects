@@ -20,7 +20,7 @@
 val regexString : String = "\\([A-Z]\\w+\\)"
 ```
 
-[출처]([https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%97%90%EC%84%9C-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2c655ba35c36](https://medium.com/@limgyumin/코틀린-에서-정규-표현식-사용하기-2c655ba35c36))
+[출처](https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%97%90%EC%84%9C-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2c655ba35c36)
 
 괄호또한 regex에서 사용될수 있기 때문에
 
